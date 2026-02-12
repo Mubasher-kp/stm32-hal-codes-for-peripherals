@@ -303,6 +303,6 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ---
 
-**Author**: [Your Name]  
+**Author**: Mubasher K P  
 **Last Updated**: February 2026  
-**MCU Tested**: STM32F4, STM32L4 series
+**MCU Tested**: STM32F4, STM32F1 series
